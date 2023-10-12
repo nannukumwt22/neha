@@ -1,0 +1,43 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-color: black;
+    text-align: center;
+}
+.profile{
+    max-width: 300px;
+    margin: 0 auto;
+    background-color: bisque;
+    padding: 20px;
+    border: 2px saddlebrown;
+    border-radius: 10px;
+}
+.profile{
+    max-width: 100%;
+    border: 4px saddlebrown;
+    border-radius: 10%;
+}
+.name{
+    font-size: 24px;
+    margin-top: 10px;
+}
+.designation{
+    font-style: italic;
+    color: antiquewhite;
+}
+.hobbies{
+    margin-top: 20px;
+}
+.hobbies ul{
+    list-style-type: none;
+    padding: 0%;
+}
+.hobbies li{
+    margin-bottom: 5px;
+    text-align: left;
+    color: burlywood;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    border:black  ;
+}
